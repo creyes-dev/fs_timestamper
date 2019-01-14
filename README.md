@@ -13,9 +13,9 @@ The final version of this gem will include the following features:
 - Allow only time or only hours timestamp changes
 - Change filesystem entries timestamps using 4 different methods: fixed, original distance, sequential distance and random
 
-## New Features in Version 0.0.1
+## New Features
 
-- Just trying to make hello world work! bundle isn't friendly if you need to install a rubygem locally without uploading it first to git.
+- v0.1.2: It can assign and record assigned modified and last accessed timestamps in a linux filesystem using a fixed timestamp assignation method. 
 
 ## Contributing
 
